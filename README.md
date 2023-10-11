@@ -15,6 +15,5 @@
 - 📫 How to reach me ...
 
 <!---
-Ouss4K/Ouss4K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Ouss4K/Ouss4K is a ✨ special ✨ repository 
 --->
