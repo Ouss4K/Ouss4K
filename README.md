@@ -8,6 +8,9 @@
     <a href="https://www.youtube.com/">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
+     <a href="https://networkfortress.blogspot.com/">
+      <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
+    </a>
    
   </div>
   <img src="https://komarev.com/ghpvc/?username=ouss4k&style=flat-square&color=green" alt=""/>
