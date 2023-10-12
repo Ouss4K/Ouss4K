@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/147084549/274600907-09ef95d7-ce9c-43dc-a432-3ffb16eee81c.gif" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ouss4K&label=Profile%20views&color=0e75b6&style=flat" alt="ouss4k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ouss4K&label=Profile%20views&color=0e75b6&style=flat" alt="ouss4k" /> </p>
 
 
 - 👋 Hi, I’m @Ouss4K
