@@ -22,18 +22,16 @@
 
 
 
+### :man_technologist: About Me :
+I am a DevSecOps engineer from Iran.
+- :telescope: I’m working as a DevSecOps engineer on my own startup and accepting projects related to DevSecOps.
 
+- :seedling: Learning about DevSecOps related stuff.
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/147084549/274600907-09ef95d7-ce9c-43dc-a432-3ffb16eee81c.gif" />
+- :zap: In my free time, I do hacking :)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ouss4K&label=Profile%20views&color=0e75b6&style=flat" alt="ouss4k" /> </p>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ouss⚡-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kernachi/)
 
-
-- 👋 Hi, I’m @Ouss4K
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
