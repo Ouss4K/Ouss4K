@@ -20,7 +20,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a DevSecOps engineer from Iran.
+
+I am a DevSecOps engineer from ALGERIA 🇩🇿 .
 - :telescope: I’m working as a DevSecOps engineer on my own startup and accepting projects related to DevSecOps.
 
 - :seedling: Learning about DevSecOps related stuff.
@@ -36,8 +37,6 @@ I am a DevSecOps engineer from Iran.
 <a href="https://instagram.com/ouss4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ouss4k" height="30" width="40" /></a>
 <a href="https://networkfortress.blogspot.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="ouss4k" height="30" width="40" /></a>
 
-
-  
 </p>
 
 <!---
