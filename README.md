@@ -28,7 +28,7 @@ I am a DevSecOps engineer from Iran.
 
 - :seedling: Learning about DevSecOps related stuff.
 
-- :zap: In my free time, I do hacking :)
+- :zap: In my free time, I do coding :)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ouss⚡-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kernachi/)
 
