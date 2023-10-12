@@ -37,6 +37,10 @@ I am a DevSecOps engineer from Iran.
 <p align="left">
 <a href="https://linkedin.com/in/kernachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ouss4k" height="30" width="40" /></a>
 <a href="https://instagram.com/ouss4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ouss4k" height="30" width="40" /></a>
+<a href="https://networkfortress.blogspot.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="ouss4k" height="30" width="40" /></a>
+
+
+  
 </p>
 
 <!---
