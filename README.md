@@ -22,9 +22,9 @@
 ### :man_technologist: About Me :
 
 I am a DevSecOps engineer from ALGERIA 🇩🇿 .
-- :telescope: I’m working as a DevSecOps engineer on my own startup and accepting projects related to DevSecOps.
+- :telescope: Currently, I'm working in IT support, focusing on providing comprehensive IT support solutions.
 
-- :seedling: Learning about DevSecOps related stuff.
+- :seedling: I am constantly learning and staying updated on the latest trends and technologies in the IT field.
 
 - :zap: In my free time, I do coding :)
 
